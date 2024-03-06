@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formula Money</string>
+
+    <string name="splash_screen_text">Formula\nMoney</string>
+
+    <string name="account_balance_title">Account Balance</string>
+    <string name="account_balance_value">$%s</string>
+
+    <string name="error_message">Unable to fetch data from API or database</string>
+</resources>
